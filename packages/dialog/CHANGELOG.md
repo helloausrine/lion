@@ -1,5 +1,14 @@
 # Change Log
 
+## 0.13.5
+
+### Patch Changes
+
+- Updated dependencies [6e86fb4e]
+- Updated dependencies [bcf68ceb]
+  - @lion/overlays@0.29.0
+  - @lion/core@0.18.4
+
 ## 0.13.4
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # Change Log
 
+## 0.13.6
+
+### Patch Changes
+
+- Updated dependencies [bcf68ceb]
+  - @lion/core@0.18.4
+  - @lion/form-core@0.15.3
+
 ## 0.13.5
 
 ### Patch Changes
